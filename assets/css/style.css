@@ -1,0 +1,15 @@
+button{
+	cursor:pointer;
+}
+label em{
+	color:red;
+	font-weight: bold;
+}
+label.error{
+	color:red;
+}
+.card-header span{
+	float:right;
+	margin-right: 15px;
+}
+
